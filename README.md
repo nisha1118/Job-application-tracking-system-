@@ -1,6 +1,6 @@
 # Job-application-tracking-system-
 video demonstration given 
-https://trailblazer.me/id/nishs39
-https://trailblazer.me/id/devis68
-https://trailblazer.me/id/saraa106
-https://trailblazer.me/id/dhivp8
+Team lead -https://trailblazer.me/id/nishs39
+Member 1-https://trailblazer.me/id/devis68
+Member 2-https://trailblazer.me/id/saraa106
+Member 3-https://trailblazer.me/id/dhivp8
